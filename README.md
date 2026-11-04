@@ -6,6 +6,7 @@
 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor de Software em formação**
 
 [![GitHub](https://img.shields.io/badge/GitHub-pe--vargas-181717?style=for-the-badge&logo=github)](https://github.com/pe-vargas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Vargas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-vargas-39451a2a1/)
 
 *Explorando tecnologias, desenvolvendo soluções e transformando ideias em projetos.*
 
@@ -26,7 +27,7 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 | Área | Tecnologias e conceitos |
 |:--|:--|
 | **Desenvolvimento web** | HTML, CSS, JavaScript e PHP |
-| **Programação** | Python, lógica de programação e orientação a objetos |
+| **Programação** | Java, Python, lógica de programação e orientação a objetos |
 | **Banco de dados** | SQL e fundamentos de modelagem de dados |
 | **Análise de dados** | Power BI e visualização de informações |
 | **Sistemas e infraestrutura** | Linux e redes de computadores |
@@ -41,7 +42,7 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 | Projeto | Descrição | Tecnologias |
 |:--|:--|:--|
 | [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. O repositório reúne documentação do universo, personagens, facções, regras e materiais interativos para a campanha. | HTML, CSS e JavaScript |
-| [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e implementações desenvolvidas durante a graduação. | Programação orientada a objetos |
+| [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e implementações desenvolvidas durante a graduação, utilizando os conceitos de programação orientada a objetos. | Java |
 
 ### Projetos acadêmicos
 
@@ -69,12 +70,7 @@ Busco uma oportunidade na área de tecnologia, com foco em desenvolvimento de so
 ## Contato
 
 - **GitHub:** [github.com/pe-vargas](https://github.com/pe-vargas)
+- **LinkedIn:** [linkedin.com/in/pedro-vargas-39451a2a1](https://www.linkedin.com/in/pedro-vargas-39451a2a1/)
 
 ---
 
-<div align="center">
-
-*BUILD · LEARN · IMPROVE*
-
-</div>
-**
