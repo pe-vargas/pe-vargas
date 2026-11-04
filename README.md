@@ -15,22 +15,22 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Tuiuti do Paraná (UTP)**, com interesse em desenvolvimento de software e tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Tuiuti do Paraná (UTP)**, com interesse em desenvolvimento de software, especialmente desenvolvimento web, além de outras áreas da tecnologia.
 
-Tenho interesse em explorar diferentes áreas da programação, conhecer novas tecnologias e desenvolver soluções que unam criatividade, lógica e funcionalidade. Busco constantemente ampliar meus conhecimentos por meio de projetos práticos e experiências acadêmicas.
+Tenho interesse em explorar diferentes linguagens de programação, tecnologias e ferramentas, buscando compreender todo o processo de desenvolvimento de soluções. Gosto de transformar ideias em projetos práticos, experimentar novas tecnologias e expandir constantemente meus conhecimentos.
 
-Atualmente, procuro uma oportunidade de estágio para contribuir com minhas habilidades, adquirir experiência profissional e continuar evoluindo como desenvolvedor.
+Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplicar minhas habilidades, adquirir experiência profissional e continuar evoluindo como desenvolvedor.
 
 ## Conhecimentos técnicos
 
 | Área | Tecnologias e conceitos |
 |:--|:--|
-| Desenvolvimento web | HTML, CSS, JavaScript e PHP |
-| Programação | Python, lógica de programação e orientação a objetos |
-| Banco de dados | SQL e fundamentos de modelagem de dados |
-| Análise de dados | Power BI e visualização de informações |
-| Sistemas e infraestrutura | Linux e redes de computadores |
-| Ferramentas | Git e GitHub |
+| **Desenvolvimento web** | HTML, CSS, JavaScript e PHP |
+| **Programação** | Python, lógica de programação e orientação a objetos |
+| **Banco de dados** | SQL e fundamentos de modelagem de dados |
+| **Análise de dados** | Power BI e visualização de informações |
+| **Sistemas e infraestrutura** | Linux e redes de computadores |
+| **Ferramentas** | Git e GitHub |
 
 **Em aprofundamento:** AWS, computação em nuvem, DevOps, administração Linux e segurança da informação.
 
