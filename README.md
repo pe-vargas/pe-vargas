@@ -3,11 +3,11 @@
 
 # Pedro Vargas
 
-**Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedor em formação**
+**Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor de Software em formação**
 
 [![GitHub](https://img.shields.io/badge/GitHub-pe--vargas-181717?style=for-the-badge&logo=github)](https://github.com/pe-vargas)
 
-*Desenvolvendo, experimentando e aprendendo na prática.*
+*Explorando tecnologias, desenvolvendo soluções e transformando ideias em projetos.*
 
 </div>
 
@@ -15,22 +15,24 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Tuiuti do Paraná (UTP)**. Tenho interesse em desenvolvimento de software, aplicações web, infraestrutura e segurança da informação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Tuiuti do Paraná (UTP)**, com interesse em desenvolvimento de software e tecnologia.
 
-Gosto de aprender construindo: transformar conceitos em projetos, testar ferramentas e entender como cada parte de uma solução funciona. Atualmente, busco uma oportunidade de estágio em tecnologia para aplicar meus conhecimentos, ganhar experiência em projetos reais e evoluir profissionalmente.
+Tenho interesse em explorar diferentes áreas da programação, conhecer novas tecnologias e desenvolver soluções que unam criatividade, lógica e funcionalidade. Busco constantemente ampliar meus conhecimentos por meio de projetos práticos e experiências acadêmicas.
 
-## Conhecimentos
+Atualmente, procuro uma oportunidade de estágio para contribuir com minhas habilidades, adquirir experiência profissional e continuar evoluindo como desenvolvedor.
+
+## Conhecimentos técnicos
 
 | Área | Tecnologias e conceitos |
 |:--|:--|
 | Desenvolvimento web | HTML, CSS, JavaScript e PHP |
-| Programação | Lógica de programação, Python e orientação a objetos |
+| Programação | Python, lógica de programação e orientação a objetos |
 | Banco de dados | SQL e fundamentos de modelagem de dados |
-| Dados | Power BI e visualização de informações |
+| Análise de dados | Power BI e visualização de informações |
 | Sistemas e infraestrutura | Linux e redes de computadores |
 | Ferramentas | Git e GitHub |
 
-**Em aprofundamento:** AWS, computação em nuvem, DevOps, administração Linux e segurança defensiva (Blue Team).
+**Em aprofundamento:** AWS, computação em nuvem, DevOps, administração Linux e segurança da informação.
 
 ## Projetos
 
@@ -38,12 +40,12 @@ Gosto de aprender construindo: transformar conceitos em projetos, testar ferrame
 
 | Projeto | Descrição | Tecnologias |
 |:--|:--|:--|
-| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. O repositório reúne documentação do universo, personagens, facções, regras e materiais interativos para a campanha. | HTML, CSS, JavaScript |
-| [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e entregas desenvolvidas durante a graduação. | Programação orientada a objetos |
+| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. O repositório reúne documentação do universo, personagens, facções, regras e materiais interativos para a campanha. | HTML, CSS e JavaScript |
+| [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e implementações desenvolvidas durante a graduação. | Programação orientada a objetos |
 
 ### Projetos acadêmicos
 
-Os projetos abaixo fizeram parte da minha trajetória acadêmica. Os arquivos originais não estão atualmente publicados no GitHub; por isso, as descrições ficam restritas ao escopo que consigo confirmar.
+Os projetos abaixo fizeram parte da minha trajetória acadêmica. Seus arquivos originais não estão atualmente publicados no GitHub.
 
 | Projeto | Descrição |
 |:--|:--|
@@ -53,16 +55,16 @@ Os projetos abaixo fizeram parte da minha trajetória acadêmica. Os arquivos or
 | **Cultura Inclusiva** | Projeto acadêmico relacionado à inclusão e à acessibilidade. |
 | **SoundNest** | Projeto de conclusão de curso relacionado à criação de uma experiência digital no universo da música. |
 
-> Os projetos acadêmicos sem link não possuem, neste momento, código-fonte ou demonstração pública disponível. O ForgeLinux está descrito como uma proposta de distribuição; não o apresento como uma distribuição finalizada.
+> Os projetos acadêmicos sem links não possuem, atualmente, código-fonte ou demonstração pública disponível. O ForgeLinux está apresentado como uma proposta acadêmica, não como uma distribuição finalizada.
 
 ## Formação
 
-- **Análise e Desenvolvimento de Sistemas** — Universidade Tuiuti do Paraná (UTP) · Em andamento
-- **Redes de Computadores** — Cisco Academia de Tecnologia
+- **Análise e Desenvolvimento de Sistemas** — Universidade Tuiuti do Paraná (UTP) · Em andamento.
+- **Redes de Computadores** — Cisco Academia de Tecnologia.
 
 ## Objetivo profissional
 
-Busco uma oportunidade de **estágio em tecnologia**, especialmente em desenvolvimento de software, suporte a sistemas, infraestrutura ou áreas relacionadas. Quero contribuir com dedicação, aprender com a equipe e transformar conhecimento acadêmico em experiência prática.
+Busco uma oportunidade na área de tecnologia, com foco em desenvolvimento de software. Tenho interesse em participar de diferentes etapas do desenvolvimento de soluções, ampliar meu domínio técnico e contribuir para projetos que gerem resultados reais.
 
 ## Contato
 
