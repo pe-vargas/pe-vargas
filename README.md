@@ -28,7 +28,7 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 |:--|:--|
 | **Desenvolvimento web** | HTML, CSS, JavaScript e PHP |
 | **Programação** | Java, Python, lógica de programação e orientação a objetos |
-| **Banco de dados** | SQL, Microsoft SQL Server e fundamentos de modelagem de dados |
+| **Banco de dados** | SQL e fundamentos de modelagem de dados |
 | **Análise de dados** | Power BI e visualização de informações |
 | **Sistemas e infraestrutura** | Linux e redes de computadores |
 | **Ferramentas** | Git e GitHub |
@@ -37,27 +37,27 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 
 ## Projetos
 
-### Projetos publicados
+### Projetos disponíveis
 
 | Projeto | Descrição | Tecnologias |
 |:--|:--|:--|
-| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado na cidade fictícia de Ashgate. Reúne documentação do universo, personagens, facções, sistema de regras e materiais interativos para a campanha. | HTML, CSS e JavaScript |
-| [NIHIL](https://github.com/pe-vargas/Nihil) | Loja virtual de moda gótica/sombria com vitrines de produtos, carrinho de compras por sessões, quiz de estilo e formulário de contato. | PHP, HTML e CSS |
-| [Programação em Banco de Dados](https://github.com/pe-vargas/Programacao-Banco-de-Dados) | Projeto acadêmico de criação e rollback de um banco de dados relacional para gerenciamento de carteiras virtuais de criptomoedas. | SQL Server e SQL |
-| [Terminal-WEB](https://github.com/pe-vargas/Terminal-WEB) | Website estático de múltiplas páginas, com navegação, formulário de contato e conteúdo temático. | HTML e CSS |
+| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. O repositório reúne documentação do universo, personagens, facções, regras e materiais interativos para a campanha. | HTML, CSS e JavaScript |
+| [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e implementações desenvolvidas durante a graduação, utilizando os conceitos de programação orientada a objetos. | Java |
 
-### Outros projetos acadêmicos
+### Projetos acadêmicos
 
-Os projetos abaixo também fizeram parte da minha trajetória acadêmica, mas não possuem atualmente código-fonte ou demonstração pública disponível.
+Os projetos abaixo fizeram parte da minha trajetória acadêmica. Seus arquivos originais não estão atualmente publicados no GitHub.
 
-<!--| Projeto | Descrição |
+<!--
+| Projeto | Descrição |
 |:--|:--|
+| **NIHIL** | Loja virtual temática desenvolvida como projeto web. Incluiu páginas dinâmicas, formulários, sessões, vitrine de produtos, quiz de estilos e carrinho de compras. |
 | **ForgeLinux** | Proposta acadêmica de uma distribuição Linux baseada em Debian, planejada como ambiente de desenvolvimento com interface XFCE e ferramentas como Git, Python, GCC, Java e Node.js. |
 | **AutoBD** | Projeto acadêmico de análise e visualização de dados utilizando Power BI. |
 | **Cultura Inclusiva** | Projeto acadêmico relacionado à inclusão e à acessibilidade. |
 | **SoundNest** | Projeto de conclusão de curso relacionado à criação de uma experiência digital no universo da música. | -->
 
-> Os projetos desta última seção não possuem, atualmente, código-fonte ou demonstração pública disponível. O ForgeLinux está apresentado como uma proposta acadêmica, não como uma distribuição finalizada.
+> Os projetos acadêmicos sem links não possuem, atualmente, código-fonte ou demonstração pública disponível. O ForgeLinux está apresentado como uma proposta acadêmica, não como uma distribuição finalizada.
 
 ## Formação
 
