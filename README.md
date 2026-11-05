@@ -44,20 +44,23 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 | [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. O repositório reúne documentação do universo, personagens, facções, regras e materiais interativos para a campanha. | HTML, CSS e JavaScript |
 | [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e implementações desenvolvidas durante a graduação, utilizando os conceitos de programação orientada a objetos. | Java |
 
+<!--
 ### Projetos acadêmicos
 
 Os projetos abaixo fizeram parte da minha trajetória acadêmica. Seus arquivos originais não estão atualmente publicados no GitHub.
 
-<!--
+
 | Projeto | Descrição |
 |:--|:--|
 | **NIHIL** | Loja virtual temática desenvolvida como projeto web. Incluiu páginas dinâmicas, formulários, sessões, vitrine de produtos, quiz de estilos e carrinho de compras. |
 | **ForgeLinux** | Proposta acadêmica de uma distribuição Linux baseada em Debian, planejada como ambiente de desenvolvimento com interface XFCE e ferramentas como Git, Python, GCC, Java e Node.js. |
 | **AutoBD** | Projeto acadêmico de análise e visualização de dados utilizando Power BI. |
 | **Cultura Inclusiva** | Projeto acadêmico relacionado à inclusão e à acessibilidade. |
-| **SoundNest** | Projeto de conclusão de curso relacionado à criação de uma experiência digital no universo da música. | -->
+| **SoundNest** | Projeto de conclusão de curso relacionado à criação de uma experiência digital no universo da música. |
 
 > Os projetos acadêmicos sem links não possuem, atualmente, código-fonte ou demonstração pública disponível. O ForgeLinux está apresentado como uma proposta acadêmica, não como uma distribuição finalizada.
+
+-->
 
 ## Formação
 
