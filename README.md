@@ -41,7 +41,7 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 
 | Projeto | Descrição | Tecnologias |
 |:--|:--|:--|
-| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. O repositório reúne documentação do universo, personagens, facções, regras e materiais interativos para a campanha. | HTML, CSS e JavaScript |
+| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado na cidade fictícia de Ashgate. O repositório reúne os materiais interativos para a campanha. | HTML, CSS e JavaScript |
 | [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e implementações desenvolvidas durante a graduação, utilizando os conceitos de programação orientada a objetos. | Java |
 
 ### Projetos acadêmicos
