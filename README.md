@@ -26,41 +26,26 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 
 | Área | Tecnologias e conceitos |
 |:--|:--|
-| **Desenvolvimento web** | HTML, CSS, JavaScript e PHP |
-| **Programação** | Java, Python, lógica de programação e orientação a objetos |
-| **Banco de dados** | SQL e fundamentos de modelagem de dados |
-| **Análise de dados** | Power BI e visualização de informações |
+| **Desenvolvimento web** | HTML5, CSS3, JavaScript e PHP |
+| **Programação** | Java, lógica de programação e orientação a objetos |
+| **Banco de dados** | SQL, Microsoft SQL Server, T-SQL e modelagem relacional |
 | **Sistemas e infraestrutura** | Linux e redes de computadores |
-| **Ferramentas** | Git e GitHub |
+| **Ferramentas** | Git, GitHub e SQL Server Management Studio |
 
-**Em aprofundamento:** AWS, computação em nuvem, DevOps, administração Linux e segurança da informação.
+**Em aprofundamento:** Python, AWS, computação em nuvem, DevOps e segurança da informação.
 
 ## Projetos
 
-### Projetos disponíveis
+### Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |:--|:--|:--|
-| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. O repositório reúne documentação do universo, personagens, facções, regras e materiais interativos para a campanha. | HTML, CSS e JavaScript |
-| [Programação Orientada a Objetos](https://github.com/pe-vargas/programacao-oo) | Repositório acadêmico com atividades e implementações desenvolvidas durante a graduação, utilizando os conceitos de programação orientada a objetos. | Java |
-
-<!--
-### Projetos acadêmicos
-
-Os projetos abaixo fizeram parte da minha trajetória acadêmica. Seus arquivos originais não estão atualmente publicados no GitHub.
-
-
-| Projeto | Descrição |
-|:--|:--|
-| **NIHIL** | Loja virtual temática desenvolvida como projeto web. Incluiu páginas dinâmicas, formulários, sessões, vitrine de produtos, quiz de estilos e carrinho de compras. |
-| **ForgeLinux** | Proposta acadêmica de uma distribuição Linux baseada em Debian, planejada como ambiente de desenvolvimento com interface XFCE e ferramentas como Git, Python, GCC, Java e Node.js. |
-| **AutoBD** | Projeto acadêmico de análise e visualização de dados utilizando Power BI. |
-| **Cultura Inclusiva** | Projeto acadêmico relacionado à inclusão e à acessibilidade. |
-| **SoundNest** | Projeto de conclusão de curso relacionado à criação de uma experiência digital no universo da música. |
-
-> Os projetos acadêmicos sem links não possuem, atualmente, código-fonte ou demonstração pública disponível. O ForgeLinux está apresentado como uma proposta acadêmica, não como uma distribuição finalizada.
-
--->
+| [NIHIL](https://github.com/pe-vargas/Nihil) | Loja virtual de moda gótica/sombria, com vitrines de produtos, carrinho de compras utilizando sessões PHP, formulário de contato e quiz de estilo com recomendações personalizadas. | PHP, HTML5 e CSS3 |
+| [Programação em Banco de Dados](https://github.com/pe-vargas/Programacao-Banco-de-Dados) | Projeto acadêmico de criação e rollback de um banco de dados relacional para gerenciamento de carteiras virtuais de criptomoedas, incluindo tabelas, relacionamentos, índices e consultas. | SQL Server e T-SQL |
+| [Cultura Inclusiva](https://github.com/pe-vargas/cultura-inclusiva) · [Acessar site](https://pe-vargas.github.io/cultura-inclusiva/index.html) | Aplicação web voltada à divulgação de eventos culturais acessíveis, com filtros de acessibilidade, mapa de eventos e recursos de inclusão visual. | HTML5, CSS3 e JavaScript |
+| [Programação Web — ED1](https://github.com/pe-vargas/prog-web-ed1) · [Acessar site](https://pe-vargas.github.io/prog-web-ed1/index.html) | Website pessoal estático com múltiplas páginas, navegação, formulário de contato e conteúdo temático, desenvolvido como estudo dirigido acadêmico. | HTML5 e CSS3 |
+| [Programação Orientada a Objetos](https://github.com/pe-vargas/Progamacao-Orientada-a-Objetos) | Repositório acadêmico com implementações em Java envolvendo sistemas de contas bancárias, personagens de RPG, folha de pagamento, gráfica online, autenticação e agenda de contatos. | Java |
+| [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. Reúne construção de universo, personagens, facções, sistema de regras e materiais interativos para campanhas. | HTML, CSS e JavaScript |
 
 ## Formação
 
