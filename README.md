@@ -61,7 +61,7 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 | Atividade | Instituição | Ano |
 |:--|:--|:--|
 | **International Astronomical Search Collaboration (IASC)** — Participação em campanha de identificação e busca por asteroides. | IASC / colaboração com a NASA | 2022 |
-| **22ª Olimpíada Brasileira de Astronomia e Astronáutica (OBA)** — Participação na olimpíada científica. | OBA | 
+| **22ª Olimpíada Brasileira de Astronomia e Astronáutica (OBA)** — Participação na olimpíada científica. | OBA |
 
 ## Idiomas
 
