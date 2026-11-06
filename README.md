@@ -47,6 +47,23 @@ Atualmente, busco uma oportunidade de estágio na área de tecnologia para aplic
 | [Programação Orientada a Objetos](https://github.com/pe-vargas/Progamacao-Orientada-a-Objetos) | Repositório acadêmico com implementações em Java envolvendo sistemas de contas bancárias, personagens de RPG, folha de pagamento, gráfica online, autenticação e agenda de contatos. | Java |
 | [SPINA DI ROSULA](https://github.com/pe-vargas/sdr) · [Acessar site](https://pe-vargas.github.io/sdr/) | Projeto autoral de RPG de mesa ambientado em Ashgate. Reúne construção de universo, personagens, facções, sistema de regras e materiais interativos para campanhas. | HTML, CSS e JavaScript |
 
+## Certificações e atividades complementares
+
+### Cursos e certificações
+
+| Certificação / Curso | Instituição | Período |
+|:--|:--|:--|
+| **Introdução a Redes de Computadores — CCNAv7** | Cisco Networking Academy | — |
+| **Aceleração Santander — Boas Práticas de Segurança em Vibe Coding** | DIIO | — |
+| **Enjoy English Course (EEC)** | EEC | 2017–2019 |
+
+### Participações acadêmicas e científicas
+
+| Atividade | Instituição | Ano |
+|:--|:--|:--|
+| **International Astronomical Search Collaboration (IASC)** — Participação em campanha de identificação e busca por asteroides. | IASC / colaboração com a NASA | 2022 |
+| **22ª Olimpíada Brasileira de Astronomia e Astronáutica (OBA)** — Participação na olimpíada científica. | OBA | — |
+
 ## Formação
 
 - **Análise e Desenvolvimento de Sistemas** — Universidade Tuiuti do Paraná (UTP) · Em andamento.
